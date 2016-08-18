@@ -1,0 +1,7 @@
+05-12 20:33 lufuli.log   INFO     in lufuli. Thu May 12 20:33:08 2016
+05-12 20:33 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): d.apicloud.com
+05-12 20:33 requests.packages.urllib3.connectionpool DEBUG    "POST /mcm/api/article HTTP/1.1" 200 42297
+05-12 20:33 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): d.apicloud.com
+05-12 20:33 requests.packages.urllib3.connectionpool DEBUG    "POST /mcm/api/article HTTP/1.1" 200 2806
+05-12 20:33 requests.packages.urllib3.connectionpool INFO     Starting new HTTPS connection (1): d.apicloud.com
+05-12 20:33 requests.packages.urllib3.connectionpool DEBUG    "POST /mcm/api/article HTTP/1.1" 200 33290
